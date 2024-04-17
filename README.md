@@ -1,3 +1,5 @@
+### Deploy do Projeto
+https://img.shields.io/website-up-down-green-red/http/monip.org.svg starbucks:(https://starbuckscoffee.netlify.app/)
 ### Sobre o Projeto
 
 Landing Page Inspirada no Starbucks Coffee
