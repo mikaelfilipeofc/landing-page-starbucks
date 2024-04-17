@@ -1,5 +1,5 @@
 ### Deploy do Projeto
-[![site](https://img.shields.io/website?label=StarbucksCoffee.com&style=for-the-bade&url=https://starbuckscoffee.com)](https://starbuckscoffee.netlify.app/)
+[![site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://starbuckscoffee.netlify.app/)
 ### Sobre o Projeto
 
 Landing Page Inspirada no Starbucks Coffee
