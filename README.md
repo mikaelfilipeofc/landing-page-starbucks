@@ -2,7 +2,7 @@
 
 Landing Page Inspirada no Starbucks Coffee
 
-<img src:"/Projeto/starbucks.jpeg" />
+<img src="/Projeto/starbucks.jpeg" />
 
 ## Tecnologias usadas
 
