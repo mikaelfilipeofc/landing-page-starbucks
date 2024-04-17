@@ -1,5 +1,3 @@
-### 👇👇Deploy do Projeto👇👇
-### [Acesse o deploy](https://starbuckscoffee.netlify.app/)
 ### Sobre o Projeto
 
 Landing Page Inspirada no Starbucks Coffee
