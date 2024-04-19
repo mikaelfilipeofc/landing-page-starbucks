@@ -4,7 +4,7 @@ Landing Page Inspirada no Starbucks Coffee
 
 ### Preview
 
-(https://ghkkjghyoihjkjlkj.netlify.app/)
+(https://mmkklojfh.netlify.app/)
 
 <img src="/landing-page-starbucks.png" />
 
